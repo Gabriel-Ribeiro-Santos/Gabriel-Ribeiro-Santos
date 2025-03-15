@@ -17,7 +17,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Gabriel Ribeiro, a Systems Analysis and Development , transitioning to the Technology area..
+  Hi 👋, I'm Gabriel Ribeiro, a stundet Systems Analysis and Development , transitioning to the Technology area..
 
   - 🌱 I am currently studying systems analysis and development (ADS) at UniAlfa.
 
